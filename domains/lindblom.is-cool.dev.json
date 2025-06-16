@@ -1,0 +1,17 @@
+{
+  "description": "LINDBLOM EDITORS.",
+  "domain": "lindblom",
+  "subdomain": "is-cool.dev",
+  "owner": {
+    "username": "starzykcps",
+    "email": "wstarzyk@cps.edu"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "value": "https://starzykcps.github.io/codespaces-blank/"
+    }
+  ],
+  "proxied": true,
+  "ttl": 3600
+}
